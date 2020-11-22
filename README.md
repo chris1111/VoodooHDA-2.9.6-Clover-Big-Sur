@@ -2,7 +2,12 @@
 
 ## (Support macOS Mojave 10.14 to macOS Big Sur 11)
 
+### Instructions: 
+- You need Existing Clover V2.5k. This does not install Clover, it will install only VoodooHDA in ESP/EFI/CLOVER/kexts/Other 
+- Install other required components to its proper function.
+
 ### This is a Mac OS X Package
+- read the Packages instruction
 ![Capture d’écran, le 2020-11-22 à 14 11 55](https://user-images.githubusercontent.com/6248794/99914779-c5992d00-2ccd-11eb-99a6-37fa2151f2de.png)
 
 ### Credit:
