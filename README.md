@@ -8,7 +8,8 @@
 
 ### This is a Mac OS X Package
 - read the Packages instruction
-![Capture d’écran, le 2020-11-22 à 14 11 55](https://user-images.githubusercontent.com/6248794/99914779-c5992d00-2ccd-11eb-99a6-37fa2151f2de.png)
+![Capture d’écran, le 2020-11-23 à 09 32 24](https://user-images.githubusercontent.com/6248794/99974374-d483ec00-2d6e-11eb-8964-dcfdecc6ddd3.png)
+
 
 ### Credit:
 - Developer Slice, Zenith432, autumnrain ➠ Source: https://sourceforge.net/projects/voodoohda/
