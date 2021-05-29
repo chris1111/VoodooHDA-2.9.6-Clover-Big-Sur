@@ -2,6 +2,9 @@
 
 ## (Support macOS Mojave 10.14 to macOS Big Sur 11)
 
+## WARNING ➤ [For now the kext not working injected from bootloader on BS 11.3 and later](https://www.insanelymac.com/forum/topic/314406-voodoohda-297/page/21/)
+
+
 ### Instructions: 
 - You need Existing Clover V2.5k. This does not install Clover, it will install only VoodooHDA in ESP/EFI/CLOVER/kexts/Other 
 - Install other required components to its proper function.
